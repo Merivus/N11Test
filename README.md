@@ -10,4 +10,4 @@ This project is a C# Test Project. When I made this project, I were using Chrome
   7- Click my favourites link from the top menu
   8- Verify that the product which has been liked from the previous page is existing on the my favourites list
   9- Click 'remove from fav' button of liked product
-  10-Verify that liked product has been removed
+  10-Verify that liked product has been removed 
